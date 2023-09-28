@@ -2,6 +2,8 @@
 
 👨‍💼 Ancien responsable qualité & projets, je suis en train de me former pour devenir développeur web Fullstack JavaScript. 
 
+🚩 Je suis localisé à Saint Maur des Fossés en IDF 
+
 🌱 Je suis actuellement la formation O'Clock pour monter en compétences sur les technos suivantes : 
 - Intégration web (HTML, CSS, SASS)
 - Développement frontend (JavaScript, React)
